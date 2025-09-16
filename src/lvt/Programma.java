@@ -17,7 +17,7 @@ public class Programma {
 	public static void main(String[] args) {
 		int reizes;
 		Scanner scan = new Scanner(System.in);
-		
+		System.out.println("Esiet sveicināti manā programmā");
 		System.out.println("Ievadiet cik reizes mest kauliņu");
 		reizes = scan.nextInt();
 		
