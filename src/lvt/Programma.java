@@ -21,6 +21,8 @@ public class Programma {
 		System.out.println("Ievadiet cik reizes mest kauliņu");
 		reizes = scan.nextInt();
 		
+		System.out.println("Intars bija šeit!");
+		
 		mestKaulinu(reizes);
 		scan.close();
 	}
